@@ -25,7 +25,7 @@ SECRET_KEY = 'uii3z3b17gtqqn!4i1vltr2ztl70@5tju=&)%m%^=apcs$if%p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
